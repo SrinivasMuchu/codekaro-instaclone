@@ -22,7 +22,7 @@ span {
 .insta-left {
     border-right: 2px solid black;
     width: 20%;
-    height: 99vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     padding: 8px 12px 20px 12px;
